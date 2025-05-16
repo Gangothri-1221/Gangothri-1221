@@ -1,60 +1,61 @@
-h1 align="center">Hi there, I'm Hima Naga Gangothri!</h1>
-
+<!-- Profile Header -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/Gangothri-1221" width="150" style="border-radius: 50%" alt="Javascript">
+  <img src="https://avatars.githubusercontent.com/u/166723270?v=4" width="150" height="150" style="border-radius: 50%" />
 </p>
 
+<h1 align="center">Hi, I'm Hima Naga Gangothri!</h1>
+
 <p align="center">
-  Aspiring Software Engineer | Java Full Stack Developer | Data Science Enthusiast 
+  Aspiring Software Engineer | Java Full Stack Developer | Data Science Enthusiast  
 </p>
 
 ---
 
-### About Me
+### 🌟 About Me
 
-- 🔭 I’m currently learning Data Science and Fullstack*
-- 🌱 I’m learning *Full Stack Development* and *Machine Learning*
-- 💬 Ask me about *Python, Java, HTML, CSS, and SQL*
-- 🧠 Final Year Student @ NRI Institute of Technology | CGPA: 9.02
-- ⚡ Fun fact: I love Yoga, Cricket & Music
-
----
-
-### Skills
-
-- *Languages:* Java, Python
-- *Web Development:* HTML, CSS, JavaScript
-- *Databases:* MySQL
-- *Tools & Technologies:* Git, VS Code, Flask, MongoDB
+- 🎓 Final Year Student @ NRI Institute of Technology | CGPA: 9.02  
+- 💻 Currently learning Data Science and Full Stack Development
+- 📌 Ask me about: Python, Java, HTML, CSS, SQL.
+- 🌱 Exploring Machine Learning and Cloud Computing.
+- 🎨 Fun fact: I love Cricket & Music.
 
 ---
 
-### Projects
+### 🛠 Skills
 
-- *Fake News Detection using FastText & Explainable AI*  
-  A hybrid deep learning framework to improve news authenticity detection.
+#### Languages
+![Java](https://img.shields.io/badge/-Java-blue?style=flat&logo=java) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 
--
+#### Web Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 
-- *Weather Forecast App*  
-  Built using HTML, CSS, JavaScript & OpenWeather API.
-
----
-
-### Certifications
-
-- NPTEL - Joy of Computing using Python
-- NPTEL - Cloud Computing
-- HackerRank - Python (Basic)
-- Infosys Springboard - Business Intelligence
-- Wipro - Java Full Stack Developer
+#### Tools & Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code) 
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 
 ---
 
-### Let's Connect!
+### 📈 GitHub Stats
 
-- LinkedIn: https://www.linkedin.com/in/gangothri-goddati-2003g/
-- GitHub: https://github.com/Gangothri-1221
-- Email: goddatigangothri12@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gangothri-1221&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gangothri-1221&layout=compact&theme=radical" />
+</p>
 
 ---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/gangothri-goddati-2003g//" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:goddatigangothri12@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
