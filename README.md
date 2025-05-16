@@ -1,16 +1,60 @@
-## Hi there 👋
+h1 align="center">Hi there, I'm Hima Naga Gangothri!</h1>
 
-<!--
-**Gangothri-1221/Gangothri-1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/Gangothri-1221" width="150" style="border-radius: 50%" alt="Profile Picture">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Aspiring Software Engineer | Java Full Stack Developer | Data Science Enthusiast 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+
+- 🔭 I’m currently learning Data Science and Fullstack*
+- 🌱 I’m learning *Full Stack Development* and *Machine Learning*
+- 💬 Ask me about *Python, Java, HTML, CSS, and SQL*
+- 🧠 Final Year Student @ NRI Institute of Technology | CGPA: 9.02
+- ⚡ Fun fact: I love Yoga, Cricket & Music
+
+---
+
+### Skills
+
+- *Languages:* Java, Python
+- *Web Development:* HTML, CSS, JavaScript
+- *Databases:* MySQL
+- *Tools & Technologies:* Git, VS Code, Flask, MongoDB
+
+---
+
+### Projects
+
+- *Fake News Detection using FastText & Explainable AI*  
+  A hybrid deep learning framework to improve news authenticity detection.
+
+-
+
+- *Weather Forecast App*  
+  Built using HTML, CSS, JavaScript & OpenWeather API.
+
+---
+
+### Certifications
+
+- NPTEL - Joy of Computing using Python
+- NPTEL - Cloud Computing
+- HackerRank - Python (Basic)
+- Infosys Springboard - Business Intelligence
+- Wipro - Java Full Stack Developer
+
+---
+
+### Let's Connect!
+
+- LinkedIn: https://www.linkedin.com/in/gangothri-goddati-2003g/
+- GitHub: https://github.com/Gangothri-1221
+- Email: goddatigangothri12@gmail.com
+
+---
