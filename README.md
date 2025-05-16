@@ -1,7 +1,7 @@
 h1 align="center">Hi there, I'm Hima Naga Gangothri!</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/Gangothri-1221" width="150" style="border-radius: 50%" alt="Profile Picture">
+  <img src="https://avatars.githubusercontent.com/u/Gangothri-1221" width="150" style="border-radius: 50%" alt="Javascript">
 </p>
 
 <p align="center">
